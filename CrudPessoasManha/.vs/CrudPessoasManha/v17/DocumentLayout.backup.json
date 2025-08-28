@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Manha\\CrudPessoasManha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA9EF91-09C9-4641-963A-E6DE46549226}|CrudPessoasManha\\CrudPessoasManha.csproj|c:\\users\\reverdan.sparinger\\documents\\ds34manha\\crudpessoasmanha\\crudpessoasmanha\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA9EF91-09C9-4641-963A-E6DE46549226}|CrudPessoasManha\\CrudPessoasManha.csproj|solutionrelative:crudpessoasmanha\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA9EF91-09C9-4641-963A-E6DE46549226}|CrudPessoasManha\\CrudPessoasManha.csproj|c:\\users\\reverdan.sparinger\\documents\\ds34manha\\crudpessoasmanha\\crudpessoasmanha\\dal\\pessoadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA9EF91-09C9-4641-963A-E6DE46549226}|CrudPessoasManha\\CrudPessoasManha.csproj|solutionrelative:crudpessoasmanha\\dal\\pessoadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA9EF91-09C9-4641-963A-E6DE46549226}|CrudPessoasManha\\CrudPessoasManha.csproj|c:\\users\\reverdan.sparinger\\documents\\ds34manha\\crudpessoasmanha\\crudpessoasmanha\\apresentacao\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA9EF91-09C9-4641-963A-E6DE46549226}|CrudPessoasManha\\CrudPessoasManha.csproj|solutionrelative:crudpessoasmanha\\apresentacao\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA9EF91-09C9-4641-963A-E6DE46549226}|CrudPessoasManha\\CrudPessoasManha.csproj|c:\\users\\reverdan.sparinger\\documents\\ds34manha\\crudpessoasmanha\\crudpessoasmanha\\apresentacao\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBA9EF91-09C9-4641-963A-E6DE46549226}|CrudPessoasManha\\CrudPessoasManha.csproj|solutionrelative:crudpessoasmanha\\apresentacao\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA9EF91-09C9-4641-963A-E6DE46549226}|CrudPessoasManha\\CrudPessoasManha.csproj|c:\\users\\reverdan.sparinger\\documents\\ds34manha\\crudpessoasmanha\\crudpessoasmanha\\modelo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA9EF91-09C9-4641-963A-E6DE46549226}|CrudPessoasManha\\CrudPessoasManha.csproj|solutionrelative:crudpessoasmanha\\modelo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA9EF91-09C9-4641-963A-E6DE46549226}|CrudPessoasManha\\CrudPessoasManha.csproj|c:\\users\\reverdan.sparinger\\documents\\ds34manha\\crudpessoasmanha\\crudpessoasmanha\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA9EF91-09C9-4641-963A-E6DE46549226}|CrudPessoasManha\\CrudPessoasManha.csproj|solutionrelative:crudpessoasmanha\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Manha\\CrudPessoasManha\\CrudPessoasManha\\Apresentacao\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CrudPessoasManha\\Apresentacao\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Manha\\CrudPessoasManha\\CrudPessoasManha\\Apresentacao\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CrudPessoasManha\\Apresentacao\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:56:12.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Manha\\CrudPessoasManha\\CrudPessoasManha\\DAL\\PessoaDAO.cs",
+              "RelativeDocumentMoniker": "CrudPessoasManha\\DAL\\PessoaDAO.cs",
+              "ToolTip": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Manha\\CrudPessoasManha\\CrudPessoasManha\\DAL\\PessoaDAO.cs",
+              "RelativeToolTip": "CrudPessoasManha\\DAL\\PessoaDAO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:24:44.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Manha\\CrudPessoasManha\\CrudPessoasManha\\DAL\\Conexao.cs",
+              "RelativeDocumentMoniker": "CrudPessoasManha\\DAL\\Conexao.cs",
+              "ToolTip": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Manha\\CrudPessoasManha\\CrudPessoasManha\\DAL\\Conexao.cs",
+              "RelativeToolTip": "CrudPessoasManha\\DAL\\Conexao.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:51:40.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Manha\\CrudPessoasManha\\CrudPessoasManha\\Apresentacao\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CrudPessoasManha\\Apresentacao\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Manha\\CrudPessoasManha\\CrudPessoasManha\\Apresentacao\\MainWindow.xaml",
+              "RelativeToolTip": "CrudPessoasManha\\Apresentacao\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-28T13:02:01.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Manha\\CrudPessoasManha\\CrudPessoasManha\\Modelo\\Pessoa.cs",
+              "RelativeDocumentMoniker": "CrudPessoasManha\\Modelo\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Manha\\CrudPessoasManha\\CrudPessoasManha\\Modelo\\Pessoa.cs",
+              "RelativeToolTip": "CrudPessoasManha\\Modelo\\Pessoa.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:28:31.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Manha\\CrudPessoasManha\\CrudPessoasManha\\Modelo\\Controle.cs",
+              "RelativeDocumentMoniker": "CrudPessoasManha\\Modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\reverdan.sparinger\\Documents\\ds34Manha\\CrudPessoasManha\\CrudPessoasManha\\Modelo\\Controle.cs",
+              "RelativeToolTip": "CrudPessoasManha\\Modelo\\Controle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:23:33.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
